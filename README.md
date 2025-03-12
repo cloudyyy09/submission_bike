@@ -1,7 +1,7 @@
 You can run the file by following these steps:
 1. clone this repository:
    
-   git clone https://github.com/totoro-07/Bike-Sharing.git
+   git clone https://github.com/cloudyyy09/submission_bike
    
 
 
